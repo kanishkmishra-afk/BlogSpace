@@ -111,4 +111,28 @@ REACT_APP_BUCKET_ID=your_bucket_id
 ```bash
 npm run dev
 ```
+---
+
+🌐 Live Demo
+
+https://blog-space-bice.vercel.app/
+
+
+---
+
+🙋‍♂️ Author
+
+Kanishk Mishra
+
+LinkedIn:https://www.linkedin.com/in/kanishk-mishra2001
+
+GitHub:https://github.com/kanishkmishra-afk
+
+Email:kanishkm794@gmail.com 
+
+
+
+---
+
+> Built with love for learning, building, and sharing.
 
