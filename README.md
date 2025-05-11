@@ -38,53 +38,6 @@ A full-stack **blogging platform** where users can sign up, log in, create, edit
 ```bash
 git clone https://github.com/kanishkmishra-afk/blog-space.git
 cd blog-space
-
-### 2. Install dependencies
-npm install
-
-### 3. Configure Appwrite
-Set up your .env file with your Appwrite credentials:
-
-REACT_APP_APPWRITE_URL=your_appwrite_endpoint# Blog Space
-
-A full-stack **blogging platform** where users can sign up, log in, create, edit, delete blog posts, and upload images. Each post is private to its author, ensuring personalized and secure content management.
-
----
-
-## 🚀 Features
-
-- User authentication (sign up, log in, log out)
-- Create, edit, and delete posts
-- Upload and preview featured images
-- Rich text content editor with formatting
-- Posts are private and only accessible to their author
-- Responsive design for all devices
-
----
-
-## 🛠 Tech Stack
-
-- **Frontend**: React.js, Tailwind CSS  
-- **State Management**: Redux Toolkit  
-- **Backend-as-a-Service**: Appwrite  
-- **Routing**: React Router  
-- **Deployment**: Vercel  
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots of login page, dashboard, editor, post preview, etc.)*
-
----
-
-## 🧑‍💻 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/kanishkmishra-afk/blog-space.git
-cd blog-space
 ```
 
 
