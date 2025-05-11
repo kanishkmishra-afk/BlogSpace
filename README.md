@@ -25,9 +25,6 @@ A full-stack **blogging platform** where users can sign up, log in, create, edit
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of login page, dashboard, editor, post preview, etc.)*
 
 ---
 
