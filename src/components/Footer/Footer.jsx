@@ -41,10 +41,10 @@ const SocialIcon=({plateform,path})=>{
 function Footer(){
     const currentYear=new Date().getFullYear();
     return (
-        <footer className="bg-gray-50 border-t border-gray-200 mt-12">
+        <footer className="bg-sky-100 border-t border-gray-200 mt-12">
             <div className="mx-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    <div className="space-y-4">
+                    <div className=" flex flex-col items-center justify-center space-y-4">
                         <Logo />
                         <p className=" flex text-sm text-gray-600">
                             A modern plateform for sharing knowlwdge and conecting through stories

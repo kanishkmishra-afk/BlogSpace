@@ -10,7 +10,7 @@ function Logo(){
                             <div className="p-1.5 rounded-lg bg-indigo-600 group-hover:bg-indigo-700 transition-colors">
                                 <BookOpenIcon className="h-6 w-6 text-white" />
                             </div>
-                            <span className="text-xl font-bold text-gray-900 hidden sm:inline-block">
+                            <span className="text-xl font-bold text-gray-900 sm:inline-block">
                                 BlogSpace
                             </span>
                             </Link>

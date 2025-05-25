@@ -32,7 +32,7 @@ function Header(){
         },
     ]
     return(
-            <header className="sticky top-0 z-50 bg-white/30 backdrop-blur-sm border-b border-gray-200 shadow-sm">
+            <header className="sticky top-0 z-50 bg-sky-900/10 backdrop-blur-sm border-b border-gray-200 shadow-sm">
                 <Container>
                     <nav className="flex items-center justify-between h-16">
                         {/* {logo section} */}
